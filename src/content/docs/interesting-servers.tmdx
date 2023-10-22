@@ -1,0 +1,77 @@
+---
+title: Interesting Discord Servers
+description: Programming-related servers that may be of interest
+---
+
+import { LinkCard, CardGrid } from "@astrojs/starlight/components";
+import "../../styles/interesting-servers.css";
+
+## Programming Languages/Libraries
+
+<CardGrid>
+  <LinkCard
+    title="<i class='ruby'></i>Ruby"
+    description="No vanity link"
+    href="https://discord.gg/ruby-518658712081268738"
+    target="_blank"
+  />
+  <LinkCard
+    title="<i class='typescript-icon'></i>Typescript"
+    description="discord.gg/typescript"
+    href="https://discord.gg/typescript"
+    target="_blank"
+  />
+  <LinkCard
+    title="<i class='c-sharp'></i>C#"
+    description="discord.gg/csharp"
+    href="https://discord.gg/csharp"
+    target="_blank"
+  />
+  <LinkCard
+    title="<i class='react'></i>React"
+    description="discord.gg/reactiflux"
+    href="https://discord.gg/reactiflux"
+    target="_blank"
+  />
+  <LinkCard
+    title="<i class='astro-icon'></i>Astro"
+    description="<b>Used to make this website!</b><br><br>No vanity link"
+    href="https://discord.gg/astro-lounge-830184174198718474"
+    target="_blank"
+  />
+  <LinkCard
+    title="<i class='alpinejs-icon'></i>Alpine.js"
+    description="No vanity link"
+    href="https://discord.gg/SwWWhtKAx3"
+    target="_blank"
+  />
+</CardGrid>
+
+## Programming Help / General Community
+
+<CardGrid>
+  <LinkCard
+    title="The Coding Den"
+    description="discord.gg/code"
+    href="https://discord.gg/code"
+    target="_blank"
+  />
+  <LinkCard
+    title="The Programmer's Hangout"
+    description="discord.gg/programming"
+    href="https://discord.gg/programming"
+    target="_blank"
+  />
+  <LinkCard
+    title="HiddenDevs"
+    description="<b>Roblox Luau (Lua) development</b><br><br>discord.gg/hd"
+    href="https://discord.gg/hd"
+    target="_blank"
+  />
+  <LinkCard
+    title="Roblox OSS Community"
+    description="No vanity link!"
+    href="https://discord.gg/MWJTMxsrHU"
+    target="_blank"
+  />
+</CardGrid>

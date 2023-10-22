@@ -1,0 +1,35 @@
+i.ruby {
+    background: url('https://api.iconify.design/logos/ruby.svg') no-repeat center center / contain;
+    content: url('https://api.iconify.design/logos/ruby.svg');
+    margin-right: 0.6em;
+}
+
+i.typescript-icon {
+    background: url('https://api.iconify.design/logos/typescript-icon.svg') no-repeat center center / contain;
+    content: url('https://api.iconify.design/logos/typescript-icon.svg');
+    margin-right: 0.6em;
+}
+
+i.c-sharp {
+    background: url('https://api.iconify.design/logos/c-sharp.svg') no-repeat center center / contain;
+    content: url('https://api.iconify.design/logos/c-sharp.svg');
+    margin-right: 0.6em;
+}
+
+i.react {
+    background: url('https://api.iconify.design/logos/react.svg') no-repeat center center / contain;
+    content: url('https://api.iconify.design/logos/react.svg');
+    margin-right: 0.6em;
+}
+
+i.astro-icon {
+    background: url('https://api.iconify.design/logos/astro-icon.svg') no-repeat center center / contain;
+    content: url('https://api.iconify.design/logos/astro-icon.svg');
+    margin-right: 0.6em;
+}
+
+i.alpinejs-icon {
+    background: url('https://api.iconify.design/logos/alpinejs-icon.svg') no-repeat center center / contain;
+    content: url('https://api.iconify.design/logos/alpinejs-icon.svg');
+    margin-right: 0.6em;
+}
