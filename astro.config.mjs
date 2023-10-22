@@ -10,9 +10,6 @@ export default defineConfig({
 	// 	src: './src/assets/3du.png',
 	// 	replacesTitle: false
 	//   },
-		favicon: {
-			
-		},
       social: {
         discord: "https://discord.gg/PKCTcBPB8r",
       },
